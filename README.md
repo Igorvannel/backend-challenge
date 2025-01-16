@@ -22,16 +22,11 @@ Ce projet est un **CRUD Challenge** permettant de gérer un produit avec les fon
 1. Clonez le dépôt backend :
 
     ```bash
-    git clone https://github.com/igorvannel/CRUD-challenge.git
+    git clone https://github.com/igorvannel/backend-challenge.git
     ```
 
-2. Allez dans le répertoire du backend :
 
-    ```bash
-    cd alshadows
-    ```
-
-3. Lancez le backend avec Maven :
+2. Lancez le backend avec Maven :
 
     ```bash
     mvn spring-boot:run
@@ -44,13 +39,12 @@ Ce projet est un **CRUD Challenge** permettant de gérer un produit avec les fon
 1. Clonez le dépôt frontend :
 
     ```bash
-    git clone https://github.com/igorvannel/CRUD-challenge.git
+    git clone https://github.com/igorvannel/front-challenge.git
     ```
 
 2. Installez les dépendances du frontend :
 
     ```bash
-    cd challenge-front
     npm install
     ```
 
